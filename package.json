@@ -1,7 +1,7 @@
 {
                "name": "SHADOW-MD",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by SuhailTechInfo.",
+               "description": "Multi device whatsapp bot by Cipher.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,9 +9,9 @@
             "start": "pm2 start lib/client.js --deep-monitoring --attach --name SHADOW-MD",
                 "stop": "pm2 stop SHADOW-MD"
                 },
-               "author": "CIpher",
+               "author": "Cipher",
               "dependencies": {
-                       "@sampandey001/baileys": "latest",
+                       "@whiskeysockets/baileys": "latest",
                        "@adiwajshing/keyed-db": "^0.2.4",
                        "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "latest",
