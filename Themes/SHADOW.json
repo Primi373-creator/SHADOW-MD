@@ -1,0 +1,56 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Cipher",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "UPDATE": "*Your bot is already on latest version Sir*",
+            "NEW_UPDATE": "*A new update is available for the bot!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Successfully Updated!*"
+        },
+        "global": {
+            "botName": "SHADOW-MD",
+            "body": "Powered by SHADOW-MD",
+            "greet2" : "Konichiwa!!, fellow seekers of the shadows",
+            "pic1": "https://i.pinimg.com/originals/51/a5/88/51a58806748ca1ee98507c287f9f8682.jpg",
+            "pic2": "https://i.pinimg.com/originals/73/a4/25/73a425df6ca299f1cb907376f19d6cab.png",
+            "pic3": "https://i.pinimg.com/originals/1e/80/4f/1e804f01335ad6782e52bd75cc367634.jpg",
+            "pic4": "https://i.pinimg.com/originals/05/0b/5a/050b5ad64825e4953d5580f235f68a67.jpg",
+            "pic5": "https://i.pinimg.com/originals/24/9d/86/249d8644ed61ca978c1411ea75f72042.jpg",
+            "pic6": "https://i.pinimg.com/originals/96/4f/a8/964fa8034a1eaa3d8c4063ebbf3b67ca.jpg",
+            "pic7": "https://i.pinimg.com/originals/63/a4/38/63a4386fd7b681ff490ac43e316e895b.jpg",
+             "greet" : "Greetings, loyal subjects of darkness",
+             "dotbody" : "🌑 I am alive, lurking in the shadows. Can you feel my presence?",
+             "promote": "👑 The Admin Role has been bestowed upon my esteemed follower. The power is now yours.",
+             "pmallow": "*Konichiwa senpai!!!,This is SHADOW*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+             "pmblock": "❌ Blocked*\n\n You have been barred for disruptive behavior\n\n Your actions have consequences.",
+             "pmwarn": "✋oi!,oi!oi! senpai!* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n",
+             "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n", 
+             "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n",
+             "demote": "The esteemed Admin Role has been rescinded.",
+             "antlink": "Link Detected.\n*Sayonara senpai*",
+             "session": "\n*Senpai This is your SESSION_ID,keep it safe and store it properly*",
+             "mention": "Senpai, Please mention any user",
+             "title": "SHADOW-MD",
+             "footer": "SHADOW-MD",
+             "by": "Made by: *Cipher*",
+             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+             "success": "Done ✓",
+             "dot": "Did you intend to say *help?*",
+             "couple_male": "*I do not wish to journey alone; I seek a female companion.*",
+             "couple_female": "*I do not wish to journey alone; I seek a male companion.*",
+             "admin": "Senpai! ⚠️ This command is solely for the Admins! The power is not for everyone.",
+             "botAdmin": "Kindly provide me Admin Role, Senpai❗, Grant me the power that I seek.",
+             "owner": "⚠️ This Command is exclusively for My Owner. The one who holds the key to my existence",
+             "group": "❗ This Feature is Only for Groups. The collective must be acknowledged.",
+             "private": "⚠️ This feature is only for the My Owner. The shadows conceal secrets.",
+             "bot": "⚠️ This feature is only for the bot number. The whispers of the machine",
+             "wait": "Processing your request✅ Patience is a virtue, especially in the realm of shadows." 
+        },
+        "error": {
+            "text": "*Uhh, I seem to have encountered an error in my grand design.*"
+        }
+    }
+  }
+  
